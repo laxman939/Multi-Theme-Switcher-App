@@ -10,6 +10,7 @@ body.theme-theme1 {
   background: #ffffff;
   color: #222;
   font-family: sans-serif;
+    text-align: center;
 }
 
 /* Theme 2: Sidebar, Dark */
@@ -25,6 +26,7 @@ body.theme-theme3 {
   background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
   color: #390099;
   font-family: "Pacifico", cursive;
+    text-align: center;
 }
 
 a {
