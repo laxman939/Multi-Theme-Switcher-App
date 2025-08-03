@@ -55,7 +55,6 @@ src/
 ├── App.tsx            # Main App component, routing & layout
 └── index.tsx          # Application entry point
 
-
 ---
 
 ## 📫 Contact
