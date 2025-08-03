@@ -43,15 +43,15 @@ Visit [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🗂️ Project Structure (key folders)
+## 🗂️ Project Structure
 
-src/
-├── components/ # UI components (Header, ThemeDropdown, Sidebar, CardList, etc.)
-├── contexts/ # ThemeContext for theme state management
-├── pages/ # Route pages (Home, About, Contact)
-├── styles/ # Theme definitions, global styles
-├── App.tsx # Main App component, routing & layout
-└── index.tsx # Application entry point
+- `src/components/` – UI components (Header, ThemeDropdown, Sidebar, CardList, etc.)
+- `src/contexts/` – ThemeContext for theme state management
+- `src/pages/` – Route pages (Home, About, Contact)
+- `src/styles/` – Theme definitions, global styles
+- `src/App.tsx` – Main App component, routing & layout
+- `src/index.tsx` – Application entry point
+
 
 ---
 
