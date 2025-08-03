@@ -14,8 +14,6 @@ A stylish, modern Vite + React + TypeScript app where users can instantly switch
 - ⚡ Smooth animations on theme switch  
 - 💻 Built with Vite, React, and TypeScript  
 
-Live Demo: [https://multi-theme-changer.netlify.app/](https://multi-theme-changer.netlify.app/)
-
 ---
 
 ## 🚀 Getting Started
@@ -48,16 +46,22 @@ Visit [http://localhost:5173](http://localhost:5173)
 ## 🗂️ Project Structure (key folders)
 
 src/
-├── components/        # UI components (Header, ThemeDropdown, Sidebar, CardList, etc.)
-├── contexts/          # ThemeContext for theme state management
-├── pages/             # Route pages (Home, About, Contact)
-├── styles/            # Theme definitions, global styles
-├── App.tsx            # Main App component, routing & layout
-└── index.tsx          # Application entry point
+├── components/ # UI components (Header, ThemeDropdown, Sidebar, CardList, etc.)
+├── contexts/ # ThemeContext for theme state management
+├── pages/ # Route pages (Home, About, Contact)
+├── styles/ # Theme definitions, global styles
+├── App.tsx # Main App component, routing & layout
+└── index.tsx # Application entry point
+
+---
+
+## 🌐 Live Demo
+
+[https://multi-theme-changer.netlify.app/](https://multi-theme-changer.netlify.app/)
 
 ---
 
 ## 📫 Contact
 
-- Email: ramlaxman947@gmail.com
-- GitHub: https://github.com/laxman939
+- Email: ramlaxman947@gmail.com  
+- GitHub: [https://github.com/laxman939](https://github.com/laxman939)
